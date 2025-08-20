@@ -1,53 +1,84 @@
+<p align="center">
+  <img src="Banner.gif" alt="Zainab Irfan Banner" width="1000"/>
+</p> 
 
-<h1 align="center">Hi 👋, I'm Zainab Irfan</h1>
-<h3 align="center">A passionate Computer Science student exploring Frontend Development & C++</h3>
-
-
-## 🚀 About Me
-- 🎓 Computer Science student with a love for **problem-solving & clean code**
-- 💻 Currently working on **Frontend projects** (HTML, CSS, JS, React)
-- 🔧 Strengthening fundamentals with **C++**
-- 🌱 Learning more about **UI/UX & modern web frameworks**
-- ⚡ Fun fact: I enjoy turning coffee ☕ into code 💻
+I’m **Zainab Irfan**, a **Computer Science student** passionate about blending creativity with logic.  
+Currently working on **Frontend projects**, building **AI-powered chatbots**, and sharpening my skills in **C++ programming**.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Skills & Technologies  
 
-**Languages & Core:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects  
+
+- 🎨 [Frontend Projects](https://github.com/codebyzaini?tab=repositories&q=frontend)  
+  *A collection of modern, responsive web apps built with HTML, CSS, and JavaScript.*  
+
+- 🤖 [AI Chatbot (n8n AI)](https://github.com/codebyzaini?tab=repositories&q=chatbot)  
+  *An AI-powered chatbot workflow built with **n8n AI** for automation and interaction.*  
+
+- 💍 [Zesthetic Jewellers Website](https://github.com/codebyzaini?tab=repositories&q=zesthetic)  
+  *A stylish jewellery website showcasing elegant designs and modern UI.*  
+
+- 🕌 [C++ Zakat Calculator](https://github.com/codebyzaini?tab=repositories&q=zakat)  
+  *A practical project that calculates Zakat using C++ programming concepts.*  
+
+- ⌨️ [C++ Practice Codes](https://github.com/codebyzaini?tab=repositories&q=c%2B%2B)  
+  *Problem-solving, algorithms, and small projects written in C++.*  
+
+- 🌐 [Portfolio Website](https://YOUR-PORTFOLIO-LINK)  
+  *Showcasing my skills, projects, and journey as a developer.*  
+
+---
+
+## 📊 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyzaini&layout=compact&theme=tokyonight" />
+</div>
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=codebyzaini&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyzaini&show_icons=true&theme=radical)
+
+---
+
+## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zainab Irfan&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" alt="streak"/>
+  <img src="https://raw.githubusercontent.com/codebyzaini/codebyzaini/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/zainab-irfan-0a6816356/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="zainab.irfan2428@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+## 🤝 Connect with Me  
 
-  </a>
-</p>
+- 🌐 GitHub: [codebyzaini](https://github.com/codebyzaini)  
+- 💼 LinkedIn: [Zainab Irfan](https://www.linkedin.com/in/zainab-irfan-0a6816356/)  
+- 📧 Email: [zainab.irfan2428@gmail.com](mailto:zainab.irfan2428@gmail.com)  
 
 ---
 
-⭐️ From Zainab Irfan(https://github.com/YOURUSERNAME)
+## 👀 Visitor Counter  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=codebyzaini&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge" />
+</div>
+
+---
+
+> “Code is where logic meets creativity — every project is a step toward innovation.”  
