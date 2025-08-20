@@ -1,84 +1,88 @@
-<p align="center">
-  <img src="Banner.gif" alt="Zainab Irfan Banner" width="1000"/>
-</p> 
+<div align="center">
 
-I’m **Zainab Irfan**, a **Computer Science student** passionate about blending creativity with logic.  
-Currently working on **Frontend projects**, building **AI-powered chatbots**, and sharpening my skills in **C++ programming**.  
+## 👋 Hi, I'm Zainab Irfan  
+### 🎯 Computer Science Student | Frontend Developer | AI & C++ Enthusiast  
+
+<!-- Typing SVG with fallback -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+Python+%7C+Java;Frontend:+React+%7C+HTML+%7C+CSS+%7C+JavaScript;AI+Chatbot+(n8n)+%7C+Project+Builder;Passionate+Learner+%7C+Tech+Explorer" alt="Typing Animation" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codebyzaini&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views" /> 
+</p>
 
 ---
 
-## 🚀 Skills & Technologies  
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/zainab-irfan-0a6816356/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/codebyzaini" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:zainab.irfan2428@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,react,javascript,git,github,vscode" alt="Tech Stack" />
+</p>
 
 ---
 
 ## 📂 Featured Projects  
 
-- 🎨 [Frontend Projects](https://github.com/codebyzaini?tab=repositories&q=frontend)  
-  *A collection of modern, responsive web apps built with HTML, CSS, and JavaScript.*  
+- 🤖 [**AI Chatbot (n8n)**](https://github.com/codebyzaini/ai-chatbot-n8n)  
+  *An AI-powered chatbot workflow using **n8n** for automation & interaction.*  
 
-- 🤖 [AI Chatbot (n8n AI)](https://github.com/codebyzaini?tab=repositories&q=chatbot)  
-  *An AI-powered chatbot workflow built with **n8n AI** for automation and interaction.*  
+- 💍 [**Zesthetic Jewellers Website**](https://github.com/codebyzaini/zesthetic-jewellers)  
+  *A modern frontend project showcasing jewellery products with elegant UI.*  
 
-- 💍 [Zesthetic Jewellers Website](https://github.com/codebyzaini?tab=repositories&q=zesthetic)  
-  *A stylish jewellery website showcasing elegant designs and modern UI.*  
-
-- 🕌 [C++ Zakat Calculator](https://github.com/codebyzaini?tab=repositories&q=zakat)  
+- 🕌 [**C++ Zakat Calculator**](https://github.com/codebyzaini/zakat-calculator-cpp)  
   *A practical project that calculates Zakat using C++ programming concepts.*  
 
-- ⌨️ [C++ Practice Codes](https://github.com/codebyzaini?tab=repositories&q=c%2B%2B)  
-  *Problem-solving, algorithms, and small projects written in C++.*  
+- 🍰 [**Baking Chatbot**](https://github.com/codebyzaini/baking-chatbot)  
+  *A chatbot that assists with baking recipes & tips.*  
 
-- 🌐 [Portfolio Website](https://YOUR-PORTFOLIO-LINK)  
-  *Showcasing my skills, projects, and journey as a developer.*  
+- 🎨 [**Frontend Projects**](https://github.com/codebyzaini?tab=repositories&q=frontend)  
+  *Responsive web apps built with **React.js, HTML, CSS, and JavaScript**.*  
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyzaini&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/codebyzaini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyzaini&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyzaini&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=codebyzaini&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=codebyzaini&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyzaini&show_icons=true&theme=radical)
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codebyzaini/codebyzaini/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 🤝 Connect with Me  
-
-- 🌐 GitHub: [codebyzaini](https://github.com/codebyzaini)  
-- 💼 LinkedIn: [Zainab Irfan](https://www.linkedin.com/in/zainab-irfan-0a6816356/)  
-- 📧 Email: [zainab.irfan2428@gmail.com](mailto:zainab.irfan2428@gmail.com)  
-
----
-
-## 👀 Visitor Counter  
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codebyzaini&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="visitor badge" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=codebyzaini&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
 
-> “Code is where logic meets creativity — every project is a step toward innovation.”  
+## 🔥 GitHub Activity Graph
+<div align="center">
+  <a href="https://github.com/codebyzaini">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyzaini&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  </a>
+</div>
+
+</div>
