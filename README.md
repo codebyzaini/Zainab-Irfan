@@ -34,8 +34,9 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,react,javascript,git,github,vscode,UI/UX design" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,react,js,git,github,vscode" />
 </p>
+
 
 ---
 
@@ -82,5 +83,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyzaini&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
   </a>
 </div>
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codebyzaini/codebyzaini/output/snake.svg" alt="Snake animation" />
+</p>
+
 
 </div>
