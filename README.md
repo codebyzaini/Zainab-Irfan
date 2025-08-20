@@ -34,26 +34,24 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,react,javascript,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,react,javascript,git,github,vscode,UI/UX design" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 📂 Featured Projects  
 
-- 🤖 [**AI Chatbot (n8n)**](https://github.com/codebyzaini/ai-chatbot-n8n)  
-  *An AI-powered chatbot workflow using **n8n** for automation & interaction.*  
 
-- 💍 [**Zesthetic Jewellers Website**](https://github.com/codebyzaini/zesthetic-jewellers)  
+- 💍 [**Zesthetic Jewellers Website**](https://github.com/codebyzaini/Zesthatic_Jewellery_strore)  
   *A modern frontend project showcasing jewellery products with elegant UI.*  
 
-- 🕌 [**C++ Zakat Calculator**](https://github.com/codebyzaini/zakat-calculator-cpp)  
+- 🕌 [**C++ Zakat Calculator**](https://github.com/codebyzaini/Zakat-Calculator)  
   *A practical project that calculates Zakat using C++ programming concepts.*  
 
 - 🍰 [**Baking Chatbot**](https://github.com/codebyzaini/baking-chatbot)  
   *A chatbot that assists with baking recipes & tips.*  
 
-- 🎨 [**Frontend Projects**](https://github.com/codebyzaini?tab=repositories&q=frontend)  
+- 🎨 [**Tic Tac Toe Game**](https://github.com/codebyzaini/tic-tac-toe)  
   *Responsive web apps built with **React.js, HTML, CSS, and JavaScript**.*  
 
 ---
