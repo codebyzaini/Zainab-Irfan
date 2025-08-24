@@ -1,7 +1,7 @@
 <div align="center">
 
-## 👋 Hi, I'm Zainab Irfan  
-### 🎯 Computer Science Student | Frontend Developer | AI & C++ Enthusiast  
+ 👋 Hi, I'm Zainab Irfan  
+ 🎯 Computer Science Student | Frontend Developer | AI & C++ Enthusiast  
 
 <!-- Typing SVG with fallback -->
 <p align="center">
@@ -40,7 +40,7 @@
 
 ---
 
-## 📂 Featured Projects  
+ 📂 Featured Projects  
 
 
 - 💍 [**Zesthetic Jewellers Website**](https://github.com/codebyzaini/Zesthatic_Jewellery_strore)  
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/codebyzaini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyzaini&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
@@ -66,23 +66,10 @@
   </a>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebyzaini&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</div>
-
-  </a>
-  
-</div>
 
 ---
 
-## 🔥 GitHub Activity Graph
+ 🔥 GitHub Activity Graph
 <div align="center">
   <a href="https://github.com/codebyzaini">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyzaini&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
