@@ -71,8 +71,13 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codebyzaini&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codebyzaini&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</div>
+
   </a>
+  
 </div>
 
 ---
